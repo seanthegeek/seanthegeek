@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me" href="https://infosec.exchange/@seanthegeek"></a>
+<a rel="me" href="https://infosec.exchange/@seanthegeek">infosec.community Mastodon profile</a>
 
 <!--
 **seanthegeek/seanthegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
